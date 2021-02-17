@@ -1,0 +1,16 @@
+interview Questions
+
+1. Difference between clonning and fork?
+2. Git Protocals https and ssh?
+3. Git Workflow?
+4. Difference between fetch & pull?
+5. Branching Stratagy?
+6. Git cherry-pick?
+
+
+Maven
+
+1. Maven vs Ant?
+2. Maven Life Cycle?
+3. pom.xml - one file for one project.
+ 
